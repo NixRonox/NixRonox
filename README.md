@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="assets/gomnix-256.png" width="96" alt="Gomnix" />
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&height=70&lines=Hi%2C+I'm+NixRonox;Product+Manager+turned+AI+Developer;Building+knowledge+tooling+%26+agent+infra)
-
-<img src="https://komarev.com/ghpvc/?username=NixRonox&label=Profile%20views&color=3C3489&style=flat-square" alt="profile views" />
-
-</div>
-
----
-
 ## About Me
 
 产品出身，转做 AI 应用开发。
