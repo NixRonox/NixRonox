@@ -11,7 +11,12 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,nix,nodejs,bash,linux,blender,godot&theme=dark&perline=7" alt="tech stack" />
+<img src="assets/icons/go.svg" width="48" alt="Go" />
+<img src="assets/icons/nix.svg" width="48" alt="Nix" />
+<img src="assets/icons/nodejs.svg" width="48" alt="Node.js" />
+<img src="assets/icons/linux.svg" width="48" alt="Linux" />
+<img src="assets/icons/blender.svg" width="48" alt="Blender" />
+<img src="assets/icons/godot.svg" width="48" alt="Godot" />
 
 </div>
 
