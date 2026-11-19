@@ -49,7 +49,7 @@ Notes aren't written for people to read — they're written for future agents to
 **Validating from zero**
 No client work, no capability arms race. Build something priceable first, then talk about the rest.
 
-## 活跃度
+## Activity
 
 <div align="center">
 
