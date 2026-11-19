@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150" role="img" aria-label="Animated greeting: Hi, I'm NixRonox">
+<title>Hi, I'm NixRonox</title>
+<desc>Animated terminal that types a greeting and blinks a cursor.</desc>
+<style>
+  .term{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .bar{fill:#161b22}
+  .p1{stroke:#ff5f56}.p2{stroke:#ffbd2e}.p3{stroke:#27c93f}
+  .prompt{fill:#7ee787;font:15px ui-monospace,Consolas,monospace}
+  .hello{fill:#e6edf3;font:600 26px ui-monospace,Consolas,monospace}
+  .hi{fill:#79c0ff}.name{fill:#d2a8ff}
+  .cursor{fill:#7ee787}
+  .dot{fill:#3fb950}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+  @keyframes type{0%,8%{width:0}55%,100%{width:430px}}
+  .blink{animation:blink 1s step-end infinite}
+  .pulse{animation:pulse 2.2s ease-in-out infinite}
+  .w{animation:type 6s linear infinite}
+  .clip{overflow:hidden}
+</style>
+<rect class="term" x="8" y="8" width="664" height="134" rx="10"/>
+<path class="bar" d="M8 18 Q8 8 18 8 H662 Q672 8 672 18 V36 H8 Z"/>
+<circle class="p1" cx="28" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="p2" cx="48" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="p3" cx="68" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="dot pulse" cx="654" cy="22" r="4"/>
+<text class="prompt" x="24" y="76">$</text>
+<text class="hello" x="48" y="94" clip-path="url(#c)"><tspan class="hi">Hi,</tspan><tspan> I'm </tspan><tspan class="name">NixRonox</tspan><tspan> 👋</tspan></text>
+<clipPath id="c"><rect class="clip w" x="48" y="66" width="0" height="40"/></clipPath>
+<rect class="cursor blink" x="52" y="104" width="11" height="18"/>
+</svg>
