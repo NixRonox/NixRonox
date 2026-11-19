@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/greeting.svg?v=1" width="680" alt="Hi, I'm NixRonox — animated greeting" />
+<img src="assets/greeting.svg?v=2" width="680" alt="Hi, I'm NixRonox — animated intro" />
 
 </div>
 
