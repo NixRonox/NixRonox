@@ -7,11 +7,15 @@
 - 正在把 Obsidian 知识库改造成 Agent 可检索的结构
 - TypeScript 写前端和 CLI，Python 写脚本和数据管线
 
+[![Email](https://img.shields.io/badge/email-NixRonox%40outlook.com-3C3489?style=flat-square)](mailto:NixRonox@outlook.com)
+
 ## Tech Stack
 
 <div align="center">
 
 <img src="assets/icons/go.svg?v=2" width="48" alt="Go" />
+<img src="assets/icons/ts.svg" width="48" alt="TypeScript" />
+<img src="assets/icons/python.svg" width="48" alt="Python" />
 <img src="assets/icons/nix.svg?v=2" width="48" alt="Nix" />
 <img src="assets/icons/nodejs.svg?v=2" width="48" alt="Node.js" />
 <img src="assets/icons/linux.svg?v=2" width="48" alt="Linux" />
