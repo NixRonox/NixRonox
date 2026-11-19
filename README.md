@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/greeting.svg?v=1" width="680" alt="Hi, I'm NixRonox — animated greeting" />
+
+</div>
+
 ## About Me
 
 产品出身，转做 AI 应用开发。
