@@ -47,7 +47,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NixRonox&theme=dark&hide_border=true&background=00000000" alt="streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NixRonox&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/NixRonox?style=flat-square&label=followers&color=7F77DD)](https://github.com/NixRonox?tab=followers)
+[![Repositories](https://img.shields.io/github/repos/NixRonox?style=flat-square&label=repos&color=1D9E75)](https://github.com/NixRonox?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/NixRonox?style=flat-square&label=total%20stars&color=d4a52e)](https://github.com/NixRonox?tab=repositories)
 
 </div>
 
