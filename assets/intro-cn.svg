@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="225" viewBox="0 0 680 225" role="img" aria-label="动态终端：中文自我介绍">
+<title>你好，我是 NixRonox</title>
+<desc>终端逐字打出中文问候与三段自我介绍，循环播放。</desc>
+<style>
+  .term{fill:#0d1117;stroke:#30363d;stroke-width:1.5}
+  .bar{fill:#161b22}
+  .p1{stroke:#ff5f56}.p2{stroke:#ffbd2e}.p3{stroke:#27c93f}
+  .prompt{fill:#7ee787;font:14px ui-monospace,"Microsoft YaHei",monospace}
+  .hello{fill:#e6edf3;font:600 24px ui-monospace,"Microsoft YaHei",monospace}
+  .hi{fill:#79c0ff}.name{fill:#3B5BFF}
+  .line{font:14px ui-monospace,"Microsoft YaHei",monospace;fill:#8b949e}
+  .c1{fill:#79c0ff}.c2{fill:#3B5BFF}.c3{fill:#7ee787}
+  .cursor{fill:#7ee787}.dot{fill:#3fb950}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+  @keyframes tH{0%,2%{width:0}17%,100%{width:330px}}
+  @keyframes t1{0%,27%{width:0}42%,100%{width:290px}}
+  @keyframes t2{0%,44%{width:0}59%,100%{width:310px}}
+  @keyframes t3{0%,61%{width:0}76%,100%{width:320px}}
+  .blink{animation:blink 1s step-end infinite}
+  .pulse{animation:pulse 2.2s ease-in-out infinite}
+  .wH{animation:tH 12s linear infinite}
+  .w1{animation:t1 12s linear infinite}
+  .w2{animation:t2 12s linear infinite}
+  .w3{animation:t3 12s linear infinite}
+  .clip{overflow:hidden}
+</style>
+<rect class="term" x="8" y="8" width="664" height="209" rx="10"/>
+<path class="bar" d="M8 18 Q8 8 18 8 H662 Q672 8 672 18 V36 H8 Z"/>
+<circle class="p1" cx="28" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="p2" cx="48" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="p3" cx="68" cy="22" r="6" fill="none" stroke-width="1.2"/>
+<circle class="dot pulse" cx="654" cy="22" r="4"/>
+<text class="hello" x="24" y="72" clip-path="url(#cH)"><tspan class="hi">你好，</tspan><tspan>我是 </tspan><tspan class="name">NixRonox</tspan><tspan> 👋</tspan></text>
+<clipPath id="cH"><rect class="clip wH" x="24" y="48" width="0" height="32"/></clipPath>
+<text class="prompt" x="24" y="104">$</text>
+<text class="line" x="42" y="104">cat 关于我.md</text>
+<text class="line c1" x="24" y="134" clip-path="url(#c1)">&gt; 产品出身 → 转做 AI 应用开发</text>
+<clipPath id="c1"><rect class="clip w1" x="24" y="120" width="0" height="20"/></clipPath>
+<text class="line c2" x="24" y="162" clip-path="url(#c2)">&gt; 在做：Agent 技能库 · 知识库工程</text>
+<clipPath id="c2"><rect class="clip w2" x="24" y="148" width="0" height="20"/></clipPath>
+<text class="line c3" x="24" y="190" clip-path="url(#c3)">&gt; 100+ 技能 → 单一真源 → 多端分发</text>
+<clipPath id="c3"><rect class="clip w3" x="24" y="176" width="0" height="20"/></clipPath>
+<rect class="cursor blink" x="300" y="178" width="8" height="14"/>
+</svg>
