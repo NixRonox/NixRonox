@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/intro-cn.svg" width="680" alt="你好，我是 NixRonox — 中文动态介绍" />
+<img src="assets/intro-en.svg" width="680" alt="Hi, I'm NixRonox — animated intro" />
 
 </div>
 
