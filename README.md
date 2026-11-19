@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/intro.svg" width="680" alt="Hi, I'm NixRonox — animated intro" />
+<img src="assets/intro-klein.svg" width="680" alt="Hi, I'm NixRonox — animated intro" />
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/NixRonox?style=flat-square&label=followers&color=7F77DD)](https://github.com/NixRonox?tab=followers)
+[![Followers](https://img.shields.io/github/followers/NixRonox?style=flat-square&label=followers&color=3B5BFF)](https://github.com/NixRonox?tab=followers)
 [![Repositories](https://img.shields.io/github/repos/NixRonox?style=flat-square&label=repos&color=1D9E75)](https://github.com/NixRonox?tab=repositories)
 [![Stars](https://img.shields.io/github/stars/NixRonox?style=flat-square&label=total%20stars&color=d4a52e)](https://github.com/NixRonox?tab=repositories)
 
